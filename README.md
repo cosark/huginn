@@ -105,6 +105,11 @@ Please see [the Huginn Wiki](https://github.com/huginn/huginn/wiki#deploying-hug
 
 Try Huginn on Heroku: [![Deploy](https://www.herokucdn.com/deploy/button.png)](https://heroku.com/deploy) (Takes a few minutes to setup. Read the [documentation](https://github.com/huginn/huginn/blob/master/doc/heroku/install.md) while you are waiting and be sure to click 'View it' after launch!) Huginn launches only on a paid subscription plan for Heroku. For non-experimental use, we strongly recommend Heroku's 1GB paid plan or our Docker container.
 
+
+### RepoCloud
+
+Deploy Huginn on RepoCloud: <a href="https://repocloud.io/details/Huginn/"><img src="https://d16t0pc4846x52.cloudfront.net/deploylobe.svg" alt="Deploy on RepoCloud" height="32"></a>
+
 ### OpenShift
 
 #### OpenShift Online
